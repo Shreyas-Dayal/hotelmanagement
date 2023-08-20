@@ -1,4 +1,4 @@
-# hotelmanagement
+# Hotel_Management_System
 
 Features in Action
 Advanced OOPs Concepts: The system's codebase is organized using inheritance and polymorphism. This helps the developers maintain and expand the system without creating redundant code.

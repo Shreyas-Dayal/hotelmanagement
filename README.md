@@ -1,6 +1,7 @@
 # Hotel_Management_System
 
 Features in Action
+
 Advanced OOPs Concepts: The system's codebase is organized using inheritance and polymorphism. This helps the developers maintain and expand the system without creating redundant code.
 
 Data Hiding Mechanism: Sensitive customer information, such as credit card details, is securely encapsulated within appropriate classes. This ensures that only authorized methods can access and modify this data, enhancing customer privacy.
